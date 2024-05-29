@@ -1,6 +1,6 @@
 # learning R
 
-<center> Basics </center>
+Basics  
 
 Practicing some Basics of R
 
