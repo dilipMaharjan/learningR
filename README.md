@@ -1,5 +1,5 @@
 # learning R
 
-#h1 Basics
+## Basics
 
-#h2 Variables
+### Variables
