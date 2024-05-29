@@ -1,5 +1,7 @@
 # learning R
 
-## Basics
+**center** ## Basics
+
+Practicing some Basics of R
 
 ### Variables
